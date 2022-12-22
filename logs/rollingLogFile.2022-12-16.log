@@ -1,0 +1,128 @@
+12:17:22.826 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/login]
+12:17:22.827 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/register]
+12:17:22.828 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/logout]
+12:17:22.828 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: BEFORE[/api/*]
+12:17:22.829 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/planets]
+12:17:22.832 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/planet/{name}]
+12:17:22.833 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/planet/id/{id}]
+12:17:22.834 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/planet/{id}/moons]
+12:17:22.834 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/moons]
+12:17:22.835 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/moon/{name}]
+12:17:22.835 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/moon/id/{id}]
+12:17:22.836 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/api/planet]
+12:17:22.836 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/api/moon]
+12:17:22.837 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: DELETE[/api/planet/{id}]
+12:17:22.837 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: DELETE[/api/moon/{id}]
+12:17:22.839 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+12:17:22.915 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.12; built: 2022-09-14T02:38:00.723Z; git: d5b8c29485f5f56a14be5f20c2ccce81b93c5555; jvm 11.0.17+8
+12:17:22.985 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+12:17:22.994 [main] INFO  o.e.j.server.handler.ContextHandler - Started i.j.j.@3e821657{/,null,AVAILABLE}
+12:17:23.074 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@301eda63{HTTP/1.1, (http/1.1)}{0.0.0.0:7000}
+12:17:23.094 [main] INFO  org.eclipse.jetty.server.Server - Started Server@3403e2ac{STARTING}[11.0.12,sto=0] @780ms
+12:17:23.094 [main] INFO  io.javalin.Javalin - 
+       __                  ___          ______
+      / /___ __   ______ _/ (_)___     / ____/
+ __  / / __ `/ | / / __ `/ / / __ \   /___ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /  ____/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/  /_____/
+
+       https://javalin.io/documentation
+
+12:17:23.101 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7000/
+12:17:23.113 [main] INFO  io.javalin.Javalin - You are running Javalin 5.1.3 (released October 30, 2022).
+12:17:23.116 [main] INFO  io.javalin.Javalin - Javalin started in 277ms \o/
+12:17:59.447 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/login]
+12:17:59.449 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/register]
+12:17:59.449 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/logout]
+12:17:59.450 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: BEFORE[/api/*]
+12:17:59.451 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/planets]
+12:17:59.454 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/planet/{name}]
+12:17:59.455 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/planet/id/{id}]
+12:17:59.455 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/planet/{id}/moons]
+12:17:59.456 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/moons]
+12:17:59.456 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/moon/{name}]
+12:17:59.457 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: GET[/api/moon/id/{id}]
+12:17:59.458 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/api/planet]
+12:17:59.459 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: POST[/api/moon]
+12:17:59.459 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: DELETE[/api/planet/{id}]
+12:17:59.460 [main] INFO  io.javalin.Javalin - JAVALIN HANDLER REGISTRATION DEBUG LOG: DELETE[/api/moon/{id}]
+12:17:59.462 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+12:17:59.536 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.12; built: 2022-09-14T02:38:00.723Z; git: d5b8c29485f5f56a14be5f20c2ccce81b93c5555; jvm 11.0.17+8
+12:17:59.610 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+12:17:59.622 [main] INFO  o.e.j.server.handler.ContextHandler - Started i.j.j.@3e821657{/,null,AVAILABLE}
+12:17:59.708 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@301eda63{HTTP/1.1, (http/1.1)}{0.0.0.0:7000}
+12:17:59.727 [main] INFO  org.eclipse.jetty.server.Server - Started Server@3403e2ac{STARTING}[11.0.12,sto=0] @799ms
+12:17:59.728 [main] INFO  io.javalin.Javalin - 
+       __                  ___          ______
+      / /___ __   ______ _/ (_)___     / ____/
+ __  / / __ `/ | / / __ `/ / / __ \   /___ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /  ____/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/  /_____/
+
+       https://javalin.io/documentation
+
+12:17:59.737 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7000/
+12:17:59.751 [main] INFO  io.javalin.Javalin - You are running Javalin 5.1.3 (released October 30, 2022).
+12:17:59.752 [main] INFO  io.javalin.Javalin - Javalin started in 291ms \o/
+12:20:15.358 [JettyServerThreadPool-19] INFO  com.revature.repository.UserDao - In getUserByUsername method
+12:20:15.779 [JettyServerThreadPool-19] INFO  io.javalin.Javalin - JAVALIN REQUEST DEBUG LOG:
+Request: POST [/login]
+    Matching endpoint-handlers: [POST=/login]
+    Headers: {Cookie=JSESSIONID=node018b5t22xxhtu9i4pahzgafb5b0.node0, Accept=*/*, User-Agent=Thunder Client (https://www.thunderclient.com), Connection=close, Host=localhost:7000, Accept-Encoding=gzip, deflate, br, Content-Length=49, Content-Type=application/json}
+    Cookies: {JSESSIONID=node018b5t22xxhtu9i4pahzgafb5b0.node0}
+    Body: {
+  "username":"Billy",
+  "password":"BeepBoop"
+}
+    QueryString: null
+    QueryParams: {}
+    FormParams: {}
+Response: [200 OK], execution took 528.62 ms
+    Headers: {Connection=close, Set-Cookie=JSESSIONID=node01rqf20ua72slunn6bpr4x4cs80.node0; Path=/; HttpOnly; SameSite=Lax, Expires=Thu, 01 Jan 1970 00:00:00 GMT, Date=Fri, 16 Dec 2022 20:20:15 GMT, Content-Type=text/plain}
+    No body was set
+----------------------------------------------------------------------------------
+12:20:17.815 [JettyServerThreadPool-16] INFO  com.revature.repository.UserDao - In getUserByUsername method
+12:20:17.947 [JettyServerThreadPool-16] INFO  io.javalin.Javalin - JAVALIN REQUEST DEBUG LOG:
+Request: POST [/login]
+    Matching endpoint-handlers: [POST=/login]
+    Headers: {Cookie=JSESSIONID=node01rqf20ua72slunn6bpr4x4cs80.node0, Accept=*/*, User-Agent=Thunder Client (https://www.thunderclient.com), Connection=close, Host=localhost:7000, Accept-Encoding=gzip, deflate, br, Content-Length=49, Content-Type=application/json}
+    Cookies: {JSESSIONID=node01rqf20ua72slunn6bpr4x4cs80.node0}
+    Body: {
+  "username":"Billy",
+  "password":"BeepBoop"
+}
+    QueryString: null
+    QueryParams: {}
+    FormParams: {}
+Response: [200 OK], execution took 131.79 ms
+    Headers: {Connection=close, Date=Fri, 16 Dec 2022 20:20:17 GMT, Content-Type=text/plain}
+    No body was set
+----------------------------------------------------------------------------------
+12:20:38.227 [JettyServerThreadPool-13] INFO  com.revature.repository.PlanetDao - In getAllPlanets method
+12:20:38.452 [JettyServerThreadPool-13] INFO  io.javalin.Javalin - JAVALIN REQUEST DEBUG LOG:
+Request: GET [/api/planets]
+    Matching endpoint-handlers: [BEFORE=/api/*, GET=api/planets]
+    Headers: {Cookie=JSESSIONID=node01rqf20ua72slunn6bpr4x4cs80.node0, Accept=*/*, User-Agent=Thunder Client (https://www.thunderclient.com), Connection=close, Host=localhost:7000, Accept-Encoding=gzip, deflate, br}
+    Cookies: {JSESSIONID=node01rqf20ua72slunn6bpr4x4cs80.node0}
+    Body: 
+    QueryString: null
+    QueryParams: {}
+    FormParams: {}
+Response: [200 OK], execution took 222.50 ms
+    Headers: {Connection=close, Date=Fri, 16 Dec 2022 20:20:38 GMT, Content-Type=application/json}
+    Body is 75 bytes (starts on next line):
+    [{"id":5,"name":"Earth","ownerId":1},{"id":1,"name":"Jupiter","ownerId":1}]
+----------------------------------------------------------------------------------
+12:21:07.478 [JettyServerThreadPool-14] INFO  io.javalin.Javalin - JAVALIN REQUEST DEBUG LOG:
+Request: POST [/logout]
+    Matching endpoint-handlers: [POST=/logout]
+    Headers: {Cookie=JSESSIONID=node01rqf20ua72slunn6bpr4x4cs80.node0, Accept=*/*, User-Agent=Thunder Client (https://www.thunderclient.com), Connection=close, Host=localhost:7000, Accept-Encoding=gzip, deflate, br, Content-Length=0}
+    Cookies: {JSESSIONID=node01rqf20ua72slunn6bpr4x4cs80.node0}
+    Body: 
+    QueryString: null
+    QueryParams: {}
+    FormParams: {}
+Response: [200 OK], execution took 0.64 ms
+    Headers: {Connection=close, Date=Fri, 16 Dec 2022 20:21:07 GMT, Content-Type=text/plain}
+    No body was set
+----------------------------------------------------------------------------------

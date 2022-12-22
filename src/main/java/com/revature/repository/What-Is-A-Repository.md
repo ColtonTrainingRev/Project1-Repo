@@ -1,0 +1,2 @@
+# Repository Layer
+The Repository Layer of an application is where the Data Access Objects (daos) are located. When using the dao design pattern, ONLY the dao classes should interact with the objects created therein.
